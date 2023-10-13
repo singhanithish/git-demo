@@ -1,2 +1,3 @@
 This is a new file in the working directory
 made changes to this file
+New changes which are not there in the remote repository
